@@ -15,4 +15,4 @@ Para levantar este proyecto se deben seguir las siguientes instrucciones:
   > npm install  
   > npm run start
 
-4. Una vez ejecutados los comandos anteriores, el proyecto ya se encuentra corriendo, y puede verse la página en [https://localhost:8080]
+4. Una vez ejecutados los comandos anteriores, el proyecto ya se encuentra corriendo, y puede verse la página en [https://localhost:8080](https://localhost:8080)

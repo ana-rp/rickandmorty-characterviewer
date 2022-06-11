@@ -12,7 +12,7 @@ Para levantar este proyecto se deben seguir las siguientes instrucciones:
 1. Instalar **node.js** en el equipo si es que no se encuentra instalado
 2. Clonar el repositorio o descargar el proyecto
 3. Dentro de la carpeta donde se encuentra el proyecto, ejecutar los siguientes comandos:
-  > npm install
+  > npm install  
   > npm run start
 
 4. Una vez ejecutados los comandos anteriores, el proyecto ya se encuentra corriendo, y puede verse la página en [https://localhost:8080]
